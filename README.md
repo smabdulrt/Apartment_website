@@ -97,7 +97,3 @@ pip install -r requirements.txt
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` file provides an overview of the project, setup instructions, usage, dependencies, and contribution guidelines. Adjust the instructions according to your project's specific details and structure.
